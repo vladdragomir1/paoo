@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Vlad/Documents/tema1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tema1.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\tema1.dir\\src\\main.cpp.obj -c C:\\Users\\Vlad\\Documents\\tema1\\src\\main.cpp",
+  "file": "C:/Users/Vlad/Documents/tema1/src/main.cpp",
+  "output": "CMakeFiles/tema1.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Vlad/Documents/tema1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tema1.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\tema1.dir\\src\\proiect.cpp.obj -c C:\\Users\\Vlad\\Documents\\tema1\\src\\proiect.cpp",
+  "file": "C:/Users/Vlad/Documents/tema1/src/proiect.cpp",
+  "output": "CMakeFiles/tema1.dir/src/proiect.cpp.obj"
+}
+]
