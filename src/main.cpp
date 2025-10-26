@@ -18,7 +18,7 @@ int main() {
         Carte c3("AI in viata de zi cu zi ", 292);
         Carte c4 = c3;
         c4.afiseaza();
-    } // aici se apelează destructorii pentru c3 și c4
+    } // aici se apeleaza destructorii pentru c3 și c4
 
     std::cout << "move constructor\n";
     Carte c5 = std::move(c1);
